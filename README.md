@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...Web Development + Mobile App Development
 - 🌱 I’m currently learning ... Laravel + Vue.js + Java
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... https://www.instagram.com/beciroviccdzenan/
+- 📫 How to reach me ... https://www.instagram.com/dzenan.becirovic/
 
 <!---
 maglichito/maglichito is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
