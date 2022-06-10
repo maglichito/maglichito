@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @maglichito
-- 👀 I’m interested in ...Web Development + Mobile App Development
-- 🌱 I’m currently learning ... Laravel + Vue.js + Java
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m working as Native Android Developer
+- 🌱 I’m currently learning ... Kotlin + Laravel
 - 📫 How to reach me ... https://www.instagram.com/dzenan.becirovic/
 
 <!---
