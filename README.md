@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @maglichito
 - 👀 I’m working as Native Android Developer
-- 🌱 I’m currently learning ... Kotlin + Laravel
+- 🌱 I’m currently learning ... Kotlin + Jetpack Compose
 - 📫 How to reach me ... https://www.instagram.com/dzenan.becirovic/
 
 <!---
