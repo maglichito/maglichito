@@ -1,4 +1,4 @@
-- 👋 #H1 Hi, I’m Dženan Bećirović
+- 👋 # Hi, I’m Dženan Bećirović
 - 👀 I’m Android Software Engineer. Kotlin and clean code enthusiast.
 - 🌱 Learning Jetpack Compose.
 - 📫 How to reach me - https://www.linkedin.com/in/d%C5%BEenan-be%C4%87irovi%C4%87-a3143b144/
