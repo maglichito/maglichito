@@ -1,6 +1,5 @@
 - 👋 Hi, I’m **Dženan Bećirović**.
 - 👀 I’m Android Engineer. Kotlin and clean code enthusiast.
-- 🌱 Learning **Jetpack Compose** & **KMP**.
 - 📫 How to reach me - [**LinkedIn**](https://www.linkedin.com/in/d%C5%BEenan-be%C4%87irovi%C4%87-a3143b144/)
 
 <!---
